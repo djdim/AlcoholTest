@@ -1,0 +1,32 @@
+<resources xmlns:android="http://schemas.android.com/tools">
+    <string name="app_name">AlcoholTest</string>
+    <string name="ContentText">
+        "Αλκοολόμετρο \n\n"
+        "Η συγκεκριμένη εφαρμογή έχει ως σκοπό την μέτρηση του δείκτη αλκοόλ στο αίμα \n\n \n\n"
+        "Σε καμία περίπτωση δεν αποτελεί στοιχείο πραγματικής μέτρησης και συνίσταται μόνο ως μέτρο αποφυγής οδήγησης μετά από κατανάλωση αλκοολ."
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="layout1"></string>
+    <string name="Form1_textView1">Βάλε τα στοιχεία σου:</string>
+    <string name="Form1_textView2">Ηλικία:</string>
+    <string name="Form1_textView3">Βάρος (κιλά):</string>
+    <string name="Form1_textView4">Ύψος (εκατοστά):</string>
+    <string name="Form1_textView5">Φύλο:</string>
+    <string name="Form1_textView6">Τι ποτό ήπιες? :</string>
+    <string name="Form1_textView7">Πόσα ποτήρια?</string>
+    <string name="button_calculate">Yπολογισε!</string>
+    <string-array name="drinks_array">
+        <item>Μπύρα</item>
+        <item>Βότκα</item>
+        <item>Whiskey</item>
+        <item>Bacardi</item>
+        <item>Jin</item>
+    </string-array>
+    <string-array name="num_drinks_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
